@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @foobartles
 - 👀 I’m interested in swift and python development, and video games!
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Swift UI.
 - 📫 How to reach me ...   @foobartles on twitter.
 
 <!---
