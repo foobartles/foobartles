@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @foobartles
 - 👀 I’m interested in iOS development and video games!
 - 🌱 I’m currently learning Swift UI and React.
-- 📫 How to reach me ...   @foobartles on twitter.
+
 
 <!---
 foobartles/foobartles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
